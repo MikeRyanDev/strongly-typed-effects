@@ -1,0 +1,12 @@
+{
+  "name": "actions-filtering",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "node ./node_modules/typescript/tsc.js -p tsconfig.json"
+  },
+  "dependencies": {
+    "rxjs": "^5.5.6"
+  }
+}
